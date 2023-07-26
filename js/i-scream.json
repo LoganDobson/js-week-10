@@ -12,7 +12,7 @@
                 "peppermint sprinkle",
                 "vanilla base"
             ],
-            "image": "https://priyansht.github.io/23S-JavaScript-05-Week11/images/chocolate-mint.svg"
+            "image": "https://logandobson.github.io/js-week-10/images/chocolate-mint.svg"
         }, {
             "name": "Peach Mango",
             "calories": 350,
@@ -22,7 +22,7 @@
                 "mango chunks",
                 "vanilla base"
             ],
-            "image": "https://priyansht.github.io/23S-JavaScript-05-Week11/images/peach-mango.svg"
+            "image": "https://logandobson.github.io/js-week-10/images/peach-mango.svg"
         },
         {
             "name": "Strawberry Sprinkle",
@@ -33,7 +33,7 @@
                 "sprinkles",
                 "vanilla base"
             ],
-            "image": "https://priyansht.github.io/23S-JavaScript-05-Week11/images/strawberry-sprinkle.svg"
+            "image": "https://logandobson.github.io/js-week-10/images/strawberry-sprinkle.svg"
         },{
             "name": "BubbleGum",
             "calories": 400,
@@ -43,7 +43,7 @@
                 "BubbleGum",
                 "vanilla base"
             ],
-            "image": "images/ice-cream-xtra1.svg"
+            "image": "https://logandobson.github.io/js-week-10/images/ice-cream-xtra1.svg"
         },
         {
             "name": "Cookies N Cream",
@@ -54,7 +54,7 @@
                 "Cookies",
                 "vanilla base"
             ],
-            "image": "images/ice-cream-xtra2.svg"
+            "image": "https://logandobson.github.io/js-week-10/images/ice-cream-xtra2.svg"
         }
     ]
 }
