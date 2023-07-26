@@ -34,6 +34,27 @@
                 "vanilla base"
             ],
             "image": "https://priyansht.github.io/23S-JavaScript-05-Week11/images/strawberry-sprinkle.svg"
+        },{
+            "name": "BubbleGum",
+            "calories": 400,
+            "type": "ice-cream",
+            "ingredients": [
+                "Strawberry syrup",
+                "BubbleGum",
+                "vanilla base"
+            ],
+            "image": "images/ice-cream-xtra1.svg"
+        },
+        {
+            "name": "Cookies N Cream",
+            "calories": 500,
+            "type": "ice-cream",
+            "ingredients": [
+                "Vanilla syrup",
+                "Cookies",
+                "vanilla base"
+            ],
+            "image": "images/ice-cream-xtra2.svg"
         }
     ]
 }
